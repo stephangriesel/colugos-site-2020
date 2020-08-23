@@ -4,8 +4,8 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    title: `Namibbiltong`,
-    description: `Biltong`,
+    title: `Colugos Properties`,
+    description: `Property Agent`,
     author: `@stevegriesel`,
   },
   plugins: [
